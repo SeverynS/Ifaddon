@@ -5,9 +5,9 @@
 * */
 public class WhileDoWhile {
     public static void main(String[] args) {
-        whileMix();
-        doWhileMix();
-        from50to201();
+        //whileMix();
+        //doWhileMix();
+        //from50to201();
     }
     public static void whileMix() {
         int i = 0;
